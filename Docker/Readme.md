@@ -5,6 +5,11 @@
 sudo apt install docker.io
 ```
 
+### How to create image using Dockerfile:
+``` bash
+docker build -t repo-image .
+```
+
 ### Build using docker-compose.yml
 ``` bash
 docker-compose up -d --build
