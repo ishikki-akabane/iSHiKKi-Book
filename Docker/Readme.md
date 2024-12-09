@@ -23,3 +23,19 @@ docker-compose up -d --build
 ``` bash
 docker exec -it c1 /bin/bash
 ```
+##### Stop Container
+``` bash
+docker stop name
+```
+##### Delete Container
+``` bash
+docker rm -f name
+```
+##### Delete Image
+``` bash
+docker rmi -f name
+```
+##### List images
+``` bash
+docker images
+```
