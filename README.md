@@ -3,4 +3,4 @@ A Book filled with Code snippets and information for multiple topics
 
 
 
-outaku paradise: `docker exec -it ot bash`
+outaku paradise: <pre lang="markdown"> ```docker exec -it ot bash``` </pre>
